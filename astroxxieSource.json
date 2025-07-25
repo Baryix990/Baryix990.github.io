@@ -4,7 +4,7 @@
   "description": "just basic source for my silly apps :3",
   "iconURL": "https://i.imgur.com/G50QKCV.png",
   "website": "https://baryix990.github.io/",
-  "patreonURL": "",
+  "patreonURL": "https://www.patreon.com/altstudio",
   "tintColor": "#dd76c9",
   "featuredApps": [
     "com.spotify.client"
@@ -27,12 +27,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://baryix990.github.io/EeveeSpotify-6.0.2-9.0.58.ipa",
-          "size": 84800000,
           "version": "9.0.58",
-          "buildVersion": "6.0.2",
           "date": "2025-07-24T23:42:00+02:00",
           "localizedDescription": "slightly modified spotify so you will never get brake for the adds >:3\nhuge thanks whoeevee for .ipa",
+          "downloadURL": "https://baryix990.github.io/EeveeSpotify-6.0.2-9.0.58.ipa",
+          "size": 84800000,
+          "buildVersion": "6.0.2",
           "minOSVersion": "16.1"
         }
       ],
@@ -73,7 +73,7 @@
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
         }
       },
-      "patreon": "https://www.patreon.com/altstudio",
+      "patreon": {}
     }
   ],
   "news": []
